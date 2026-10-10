@@ -1,0 +1,6 @@
+{
+  "name": "FinDaddy - Smart Salary, Tax & In-Hand Financial System",
+  "description": "India's smartest salary auditor, OCR payslip extractor, tax regime engine, and 50/30/20 in-hand budget planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
